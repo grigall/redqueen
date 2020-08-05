@@ -1,0 +1,45 @@
+[  ]Initial Setup
+Decide who wants to be the first Red Queen. Deal cards to each player until everyone has FOUR. Place the remaining cards in the center as a draw pile.
+
+[  ]Order of Play
+Once initial hands are dealt, all players inspect their hands. The player with the Queen of Hearts goes first. Each game consists of several rounds. Each round continues until one of the players meets the win conditions.
+
+[  ]Win Conditions 
+Red Queen: Survive until the draw pile is depleted OR gain possession of three-out-of-four Aces OR two-out-of-four of the following: Red Joker, Black Joker, Jack of Hearts, or Queen of Diamonds.
+
+Other Players: Eliminate the Red Queen.
+
+[  ]Points and Scoring 
+If the Red Queen wins the round, the player earns 20 points. If any other player wins the round, that player earns 10 points and the other companion players earn 5 points each.  Game limit may be set to any number of points divisible by 10 (e.g. 500 points).
+
+[  ]Rules of Combat
+1) Only the Black Joker, Red Joker, Jack of Hearts, or Queen of Diamonds may kill the Red Queen.
+2) The Queen's coterie must be eliminated before any attack may be made on the queen herself. 
+3) Jokers may kill any other card.
+4) Aces may kill any other card.
+5) In the event of a Joker versus Ace battle, the attacker always wins.
+6) Jacks may kill other Jacks or numbered cards. They may not kill Kings or Ladies-in-Waiting.
+7) Ladies-in-Waiting (e.g. other queens) may kill other Ladies-in-Waiting or numbered cards. They may not kill Kings or Jacks.
+8) Kings may kill other Kings or numbered cards. They may not kill Jacks or Ladies-in-Waiting.
+9) Numbered cards may only kill numbered cards of lesser value.
+
+[  ]Game Actions
+1) Draw Card (Any Player)
+2) Play Card (Any Player)
+3) Shuffle Coterie Cards (Red Queen ONLY)
+
+[  ]Queen's Coterie
+A group of up to THREE cards placed in front of the Red Queen to protect her from attack. Once a coterie member is placed, it may be either left in place or replaced by another member. If it is replaced, the card goes into the player's hand. The Red Queen may shuffle her coterie members and set them back down in a different order as a turn action. The player must declare a card switch beforehand to maintain transparency. 
+
+[  ]First Turn
+The Red Queen may take up to FOUR actions. All other players may take only TWO actions. 
+
+[  ]Second Turn and Beyond
+The Red Queen may take up to THREE actions and have no more than SIX cards in her hand at any one time. All other players may take only TWO actions and have no more than FIVE cards in their hands at any one time. At the end of their turn, players must discard cards if they have more than the prescribed limit in their hand.
+
+When a player decides to attack the queen's coterie, they must declare their intent and choose one of the coterie members to attack. Once both players are ready, the coterie member must be revealed and the attack resolved. If the attacker loses the engagement, they must discard the losing card. If the coterie member loses the engagement, both players must discard their card. If the engagement is a draw (e.g. Jack against King, Ten against Ten), the attacker returns the card to their hand and the coterie member survives but remains revealed for the remainder of the round.
+
+[  ]Player Positions 
+Revealer = Player to the LEFT of the Red Queen
+Deceiver = Player ACROSS from the Red Queen
+Avenger = Player to the RIGHT of the Red Queen 
